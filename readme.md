@@ -8,7 +8,7 @@
 
 ## TECH
 
-![Static Badge](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5&logoColor=orange) ![Static Badge](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow) ![Static Badge](https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=Tailwindcss&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=orange) ![Static Badge](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript&logoColor=yellow) ![Static Badge](https://img.shields.io/badge/Tailwind-white?style=for-the-badge&logo=Tailwindcss&logoColor=blue)
 
 ## 🥡 How to clone
 
