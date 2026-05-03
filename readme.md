@@ -6,6 +6,10 @@
 
 ![preview](/assets//preview.jpg)
 
+## TECH
+
+![Static Badge](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5&logoColor=orange) ![Static Badge](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow) ![Static Badge](https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=Tailwindcss&logoColor=blue)
+
 ## 🥡 How to clone
 
 <ul>
