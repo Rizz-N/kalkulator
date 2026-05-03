@@ -25,4 +25,4 @@
 
 ## Link
 
-<a href="https://git-scm.com/"> Download GIt </a>
+<a target="_blank" href="https://git-scm.com/"> Download GIt </a>
